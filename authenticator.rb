@@ -1,4 +1,4 @@
-# Project #1 from "The Complete Ruby on Rails Developer Course from Udemy, taught by Mashrur Hossain"
+# Project #1 from "The Complete Ruby on Rails Developer Course" from Udemy, taught by Mashrur Hossain
 # This program puts together for and while loops and uses conditionals to check input against an array of hashes
 
 # Array containing username and password combos as hashes
