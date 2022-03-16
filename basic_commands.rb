@@ -10,11 +10,11 @@
 # data = gets.chomp
 
 # if data.class == String                                                     # Conditional
-#     puts "That is data type string"
+#   puts "That is data type string"
 # elsif data.class == Integer
-#     puts "That is an integer"
+#   puts "That is an integer"
 # else
-#     puts "That is a different data type"
+#   puts "That is a different data type"
 # end
 # (40).times { print "-"}
 
